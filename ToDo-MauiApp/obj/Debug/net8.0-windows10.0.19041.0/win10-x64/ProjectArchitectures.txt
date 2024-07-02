@@ -1,0 +1,1 @@
+C:\Users\ADMIN\OneDrive\Desktop\Projects\Learning.NET\ToDo-MauiApp\ToDo-MauiApp\ToDo-MauiApp.csproj;x64
